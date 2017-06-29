@@ -1,7 +1,8 @@
+
 Supported tags and respective `Dockerfile` links
 ================================================
 
- - [`latest` (*latest/Dockerfile*)](https://github.com/kurthuwig/docker-duply/blob/master/Dockerfile)
+ - [`latest` (*latest/Dockerfile*)](https://github.com/mikebobrov/docker-duply/blob/master/Dockerfile)
 
 What is duply?
 ==============
@@ -139,4 +140,5 @@ More information can be found in the [duply documentation](http://duply.net/wiki
 Contact
 =======
 
-Kurt Huwig (@GMail.com: kurthuwig)
+Kurt Huwig (@GMail.com: kurthuwig) - original repository author
+Mike Bobrov - fork author
