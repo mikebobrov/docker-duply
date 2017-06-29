@@ -1,6 +1,6 @@
-FROM ubuntu:trusty
+FROM ubuntu:xenial
 
-MAINTAINER Kurt Huwig
+MAINTAINER Mike Bobrov
 
 RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
     duply \
